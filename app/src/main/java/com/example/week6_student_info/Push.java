@@ -9,6 +9,7 @@ import android.widget.Toast;
 
 public class Push extends AppCompatActivity {
     TextView textView1;
+    String name;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
